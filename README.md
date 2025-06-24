@@ -1,3 +1,7 @@
+**Made By - Sayan Kundu**
+
+---
+
 # Dropbox Brand Animation Demo
 
 Live Demo: [https://dropbox-clone-wybh.vercel.app/](https://dropbox-clone-wybh.vercel.app/)
@@ -17,10 +21,6 @@ Tailwind CSS
 GSAP + ScrollTrigger
 
 Responsive and interactive across mobile and desktop devices.
-
----
-
-**Made By - Sayan Kundu**
 
 ---
 
@@ -126,4 +126,4 @@ See it live: [https://dropbox-clone-wybh.vercel.app/](https://dropbox-clone-wybh
 
 ![Mobile Demo](src/assets/images/image-2.jpg)
 
-![Desktop Demo](src/assets/images/image-1.jpg)
+![Desktop Demo](src/assets/images/image-1.png)
