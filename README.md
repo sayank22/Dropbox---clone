@@ -1,6 +1,6 @@
 # Dropbox Brand Animation Demo
 
-Live Demo: [https://dropbox-brand-guidelines.vercel.app/](https://dropbox-brand-guidelines.vercel.app/)
+Live Demo: [https://dropbox-clone-wybh.vercel.app/](https://dropbox-clone-wybh.vercel.app/)
 
 ---
 
@@ -112,6 +112,6 @@ The grid layout and animation logic adapt seamlessly to both desktop and mobile 
 
 ## Demo
 
-See it live: [https://dropbox-brand-guidelines.vercel.app/](https://dropbox-brand-guidelines.vercel.app/)
+See it live: [https://dropbox-clone-wybh.vercel.app/](https://dropbox-clone-wybh.vercel.app/)
 
 ![Mobile Demo](src/assets/images/image-2.png)
