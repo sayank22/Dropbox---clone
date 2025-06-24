@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const HomePage = () => {
 
-  const [hoverActive, setHoverActive] = useState(false);
+  const [, setHoverActive] = useState(false);
 
   const containerRef = useRef(null);
   const sectionOne = useRef(null);
